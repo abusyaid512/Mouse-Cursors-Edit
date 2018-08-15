@@ -1,0 +1,53 @@
+.cursor {
+	background-color: red;
+	text-align: center;
+	color: #fff;
+	width: 30%;
+	float: left;
+	height: 200px;
+	
+	/* padding: 10px; */
+	margin: 10px;
+}
+h1 {
+	font-size: 38.5px;
+	/* margin-top: 14px; */
+}
+.cursor-jj{cursor:url(../img/left-arrow.png),pointer;}
+.cursor-jj2{cursor:url(../img/right-arrow.png),pointer;}
+.hhh{
+		height: 200px;
+}
+.cursor1 {
+	text-align: center;
+	background-color: blue;
+	height: 300px;
+}
+.ggg {
+	height: 400px;
+	position: relative;
+}
+.ggg .ff {
+	height: 300px;
+	width: 153px;
+	text-align: center;
+	font-size: 20px;
+	top: 0;
+	left: 0px;
+	position: absolute;
+    cursor:url(../img/left-arrow.png),pointer;
+}
+
+
+.ggg .fff {
+	height: 300px;
+	width: 153px;
+	text-align: center;
+	font-size: 20px;
+	top: 0;
+	/* right: 0px; */
+	position: absolute;
+	left: auto;
+	right: 0;
+	cursor:url(../img/right-arrow.png),pointer;
+}
