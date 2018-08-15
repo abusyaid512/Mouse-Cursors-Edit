@@ -1,5 +1,5 @@
 # Mouse-Cursors-Edit
-Mouse Cursors Change
+Mouse Cursors Change style: https://alligator.io/css/cursor-property/
 
 
 
